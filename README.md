@@ -8,6 +8,7 @@ This project is a car fare price prediction system that leverages AWS cloud serv
 - **AWS Glue (PySpark)** - ETL processing
 - **AWS SageMaker** - Model training and deployment
 - **EC2** - Hosting the deployed model
+- **Power-BI** - For Dashboarding & Reporting 
 - **Streamlit** - Web application for predictions
 - **TomTom API** - Fetching distance and time for fare calculations
 
