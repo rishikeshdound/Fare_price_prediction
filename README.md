@@ -54,6 +54,7 @@ This project is a car fare price prediction system that leverages AWS cloud serv
 used for trying streamlit cloud for free  deployement & hosting 
 aws deployement deleted after deployement 
 https://github.com/rishikeshdound/cloud_Deploy
+app deployed might be taken down : https://rishi-cabfare.streamlit.app/ 
 
 ## Author
 [Rishikesh Dound](https://github.com/rishikeshdound)
